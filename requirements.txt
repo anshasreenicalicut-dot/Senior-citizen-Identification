@@ -1,0 +1,10 @@
+
+numpy<2
+pandas
+Pillow
+scikit-learn
+torch
+torchvision
+opencv-python
+openpyxl
+tqdm
