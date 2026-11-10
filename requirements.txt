@@ -1,4 +1,3 @@
-
 numpy<2
 pandas
 Pillow
@@ -8,3 +7,4 @@ torchvision
 opencv-python
 openpyxl
 tqdm
+streamlit
